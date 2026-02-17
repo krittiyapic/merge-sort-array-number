@@ -1,0 +1,19 @@
+{
+  "name": "merge-sort-array-number",
+  "version": "1.0.0",
+  "description": "",
+  "author": "KRITTIYA PICHAI",
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "dev": "node --loader ts-node/esm src/index.ts",
+    "test": "vitest",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "vitest": "^1.5.0"
+  }
+}
