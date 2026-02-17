@@ -25,8 +25,9 @@ $ sudo npm install
 ## Compile and run the project
 
 ```bash
-$ npm run start:dev
+$ npm run dev
 ```
+Result will be on Terminal
 
 ## Run tests
 
